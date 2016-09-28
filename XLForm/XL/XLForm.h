@@ -68,7 +68,6 @@
 #import "XLFormSwitchCell.h"
 #import "XLFormTextFieldCell.h"
 #import "XLFormTextViewCell.h"
-#import "XLFormImageCell.h"
 
 //Validation
 #import "XLFormRegexValidator.h"
